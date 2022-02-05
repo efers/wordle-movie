@@ -14,6 +14,7 @@ export const AboutModal = ({ isOpen, handleClose }: Props) => {
           href="https://github.com/bhavesh15184/word-guessing-game"
           className="underline font-bold"
           target="_blank" 
+          rel="noreferrer"
         >
           check out the code here
         </a>{' '}
@@ -24,6 +25,7 @@ export const AboutModal = ({ isOpen, handleClose }: Props) => {
           href="https://github.com/hannahcode/word-guessing-game"
           className="underline font-bold"
           target="_blank" 
+          rel="noreferrer"
         >
           check out the original code here
         </a>{' '}
