@@ -1,4 +1,4 @@
-# Word Guessing Game
+# Movie Name Guessing Game
 
 # How to play
 - Guess the bollywood movie name in 6 tries. 
