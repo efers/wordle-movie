@@ -118,8 +118,13 @@ export const WORDS = [
   'aisha',
   'wazir',
   'cargo',
+  'dahek',
   'ghost',
   'daddy',
   'katha',
   'velle',
+  'lekin',
+  'drona',
+  'barfi',
+  'gadar',
 ]
