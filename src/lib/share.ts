@@ -3,9 +3,10 @@ import { solutionIndex } from './words'
 import { GAME_TITLE } from '../constants/strings'
 
 export const shareStatus = (guesses: string[], lost: boolean) => {
+  var url = window.location.href;
   navigator.clipboard.writeText(
-    `${GAME_TITLE} ${solutionIndex} ${lost ? 'X' : guesses.length}/6\n\n` +
-      generateEmojiGrid(guesses)
+    `${GAME_TITLE} ${solutionIndex} ${lost ? 'X' : guesses.length}/6 - ${url} \n\n` +
+    generateEmojiGrid(guesses)
   )
 }
 

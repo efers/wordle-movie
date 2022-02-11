@@ -817,7 +817,12 @@ export const VALIDGUESSES = [
   'bhram',
   'happi',
   'jumbo',
+  'dahek',
   'kites',
   'sniff',
   'velle',
+  'lekin',
+  'drona',
+  'barfi',
+  'gadar',
 ]

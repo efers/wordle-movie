@@ -14,7 +14,6 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
         <li>- Each guess must be a valid 5 letter movie name.</li>
         <li>- Movie names with special characters and/or space are not allowed E.g. 'Mr. X', 'Dil Se'</li>
         <li>- Hit the enter button to submit.</li>
-        <li>- Consider official full name of movie E.g. 'Dahek The Burning Passion' instead of 'Dahek'.</li>
         <li>- After each guess, the color of the tiles will change to show how close your guess was to the name.</li>
         <li>- Just like popular Wordle, each day new movie name will be available.</li>
       </ul>

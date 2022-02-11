@@ -6,7 +6,6 @@
 - Hit the enter button to submit.
 - After each guess, the color of the tiles will change to show how close your guess was to the name.
 - Movie names with special characters and/or space are not allowed E.g. 'Mr. X', 'Dil Se', 'Lekin...'
-- Consider official full name of movie E.g. 'Dahek The Burning Passion' instead of 'Dahek'
 - Just like popular Wordle, each day new movie name will be available.
 
 # Code & Setup
